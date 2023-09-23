@@ -1,5 +1,161 @@
-*{
+html {
+  width: 100%;
+}
+body {
+  width: inherit;
+}
+
+/* ^ Global properties */
+*,
+::after,
+::before {
   padding: 0;
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+/* ^ CSS variables */
+:root {
+  --bgcolor-white: #ffffff;
+  --bgcolor-lightblue: #f1f0fe;
+  --color-purple: #7a6ad8;
+  --color-light-grey: #ffffff33;
+  --color-black: #000000;
+  --color-dark-grey: #212529;
+  --color-extra-dark-grey: #1e1e1e;
+  --color-ramya: #fafafaf2;
+  --color-purple-alpha: #7a6ad8f2;
+}
+
+/* ^ media queries */
+
+/* ! Mobile view */
+@media (max-width: 425px) {
+  /*? skanda (home-page) starts */
+
+  /*? skanda (home-page) ends*/
+
+  /*? ramya1 (service-page) starts */
+
+  /*? ramya1 (service-page) ends */
+
+  /* ? jaffarson1 (service-page) starts */
+
+  /* ? jaffarson1 (service-page) ends */
+
+  /* ?  ramya2 (coursers-page) starts */
+
+  /* ?  ramya2 (coursers-page) ends */
+
+  /* ? saravanan1 (coursers-page) starts */
+
+  /* ? saravanan1 (coursers-page) ends */
+
+  /* ? saravanan2 (teams-page) starts */
+
+  /* ? saravanan2 (teams-page) ends */
+
+  /* ? saravanan3 (coursers-page) starts */
+
+  /* ? saravanan3 (coursers-page) ends */
+
+  /* ? delhi (events-page) starts */
+
+  /* ? delhi (events-page) ends */
+
+  /* ? ram1 (register-now-page) starts */
+
+  /* ? ram1 (register-now-page) ends */
+
+  /* ? ram2 (register-now-page) starts  */
+
+  /* ? ram2 (register-now-page) ends */
+}
+
+/* ! Tablet view */
+@media only screen and (min-width: 425px) and (max-width: 768px) {
+  /*? skanda (home-page) starts */
+
+  /*? skanda (home-page) ends*/
+
+  /*? ramya1 (service-page) starts */
+
+  /*? ramya1 (service-page) ends */
+
+  /* ? jaffarson1 (service-page) starts */
+
+  /* ? jaffarson1 (service-page) ends */
+
+  /* ?  ramya2 (coursers-page) starts */
+
+  /* ?  ramya2 (coursers-page) ends */
+
+  /* ? saravanan1 (coursers-page) starts */
+
+  /* ? saravanan1 (coursers-page) ends */
+
+  /* ? saravanan2 (teams-page) starts */
+
+  /* ? saravanan2 (teams-page) ends */
+
+  /* ? saravanan3 (coursers-page) starts */
+
+  /* ? saravanan3 (coursers-page) ends */
+
+  /* ? delhi (events-page) starts */
+
+  /* ? delhi (events-page) ends */
+
+  /* ? ram1 (register-now-page) starts */
+
+  /* ? ram1 (register-now-page) ends */
+
+  /* ? ram2 (register-now-page) starts  */
+
+  /* ? ram2 (register-now-page) ends */
+}
+
+/* ! Laptop view */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  /*? skanda (home-page) starts */
+
+  /*? skanda (home-page) ends*/
+
+  /*? ramya1 (service-page) starts */
+
+  /*? ramya1 (service-page) ends */
+
+  /* ? jaffarson1 (service-page) starts */
+
+  /* ? jaffarson1 (service-page) ends */
+
+  /* ?  ramya2 (coursers-page) starts */
+
+  /* ?  ramya2 (coursers-page) ends */
+
+  /* ? saravanan1 (coursers-page) starts */
+
+  /* ? saravanan1 (coursers-page) ends */
+
+  /* ? saravanan2 (teams-page) starts */
+
+  /* ? saravanan2 (teams-page) ends */
+
+  /* ? saravanan3 (coursers-page) starts */
+
+  /* ? saravanan3 (coursers-page) ends */
+
+  /* ? delhi (events-page) starts */
+
+  /* ? delhi (events-page) ends */
+
+  /* ? ram1 (register-now-page) starts */
+
+  /* ? ram1 (register-now-page) ends */
+
+  /* ? ram2 (register-now-page) starts  */
+
+  /* ? ram2 (register-now-page) ends */
 }
