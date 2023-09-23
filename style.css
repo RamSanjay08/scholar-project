@@ -28,3 +28,134 @@ body {
   --color-ramya: #fafafaf2;
   --color-purple-alpha: #7a6ad8f2;
 }
+
+/* ^ media queries */
+
+/* ! Mobile view */
+@media (max-width: 425px) {
+  /*? skanda (home-page) starts */
+
+  /*? skanda (home-page) ends*/
+
+  /*? ramya1 (service-page) starts */
+
+  /*? ramya1 (service-page) ends */
+
+  /* ? jaffarson1 (service-page) starts */
+
+  /* ? jaffarson1 (service-page) ends */
+
+  /* ?  ramya2 (coursers-page) starts */
+
+  /* ?  ramya2 (coursers-page) ends */
+
+  /* ? saravanan1 (coursers-page) starts */
+
+  /* ? saravanan1 (coursers-page) ends */
+
+  /* ? saravanan2 (teams-page) starts */
+
+  /* ? saravanan2 (teams-page) ends */
+
+  /* ? saravanan3 (coursers-page) starts */
+
+  /* ? saravanan3 (coursers-page) ends */
+
+  /* ? delhi (events-page) starts */
+
+  /* ? delhi (events-page) ends */
+
+  /* ? ram1 (register-now-page) starts */
+
+  /* ? ram1 (register-now-page) ends */
+
+  /* ? ram2 (register-now-page) starts  */
+
+  /* ? ram2 (register-now-page) ends */
+}
+
+/* ! Tablet view */
+@media only screen and (min-width: 425px) and (max-width: 768px) {
+  /*? skanda (home-page) starts */
+
+  /*? skanda (home-page) ends*/
+
+  /*? ramya1 (service-page) starts */
+
+  /*? ramya1 (service-page) ends */
+
+  /* ? jaffarson1 (service-page) starts */
+
+  /* ? jaffarson1 (service-page) ends */
+
+  /* ?  ramya2 (coursers-page) starts */
+
+  /* ?  ramya2 (coursers-page) ends */
+
+  /* ? saravanan1 (coursers-page) starts */
+
+  /* ? saravanan1 (coursers-page) ends */
+
+  /* ? saravanan2 (teams-page) starts */
+
+  /* ? saravanan2 (teams-page) ends */
+
+  /* ? saravanan3 (coursers-page) starts */
+
+  /* ? saravanan3 (coursers-page) ends */
+
+  /* ? delhi (events-page) starts */
+
+  /* ? delhi (events-page) ends */
+
+  /* ? ram1 (register-now-page) starts */
+
+  /* ? ram1 (register-now-page) ends */
+
+  /* ? ram2 (register-now-page) starts  */
+
+  /* ? ram2 (register-now-page) ends */
+}
+
+/* ! Laptop view */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  /*? skanda (home-page) starts */
+
+  /*? skanda (home-page) ends*/
+
+  /*? ramya1 (service-page) starts */
+
+  /*? ramya1 (service-page) ends */
+
+  /* ? jaffarson1 (service-page) starts */
+
+  /* ? jaffarson1 (service-page) ends */
+
+  /* ?  ramya2 (coursers-page) starts */
+
+  /* ?  ramya2 (coursers-page) ends */
+
+  /* ? saravanan1 (coursers-page) starts */
+
+  /* ? saravanan1 (coursers-page) ends */
+
+  /* ? saravanan2 (teams-page) starts */
+
+  /* ? saravanan2 (teams-page) ends */
+
+  /* ? saravanan3 (coursers-page) starts */
+
+  /* ? saravanan3 (coursers-page) ends */
+
+  /* ? delhi (events-page) starts */
+
+  /* ? delhi (events-page) ends */
+
+  /* ? ram1 (register-now-page) starts */
+
+  /* ? ram1 (register-now-page) ends */
+
+  /* ? ram2 (register-now-page) starts  */
+
+  /* ? ram2 (register-now-page) ends */
+}
